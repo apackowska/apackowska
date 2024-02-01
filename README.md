@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">I am Junior Data Analyst</h3>
+<h3 align="center">I am a Junior Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🔭 I’m currently working on **bayesian linear regression**
 
-- 🌱 I’m currently learning **about bayesian framework in data analysis**
+- 🌱 I’m currently learning **about AWS Cloud technologies**
 
-- 💬 Ask me about **fraud detection, ML algorithms, SQL queries**
+- 💬 Ask me about **fraud detection, AI algorithms, credit risk management**
 
 - 📫 How to reach me **a.packowska2@gmail.com**
 
