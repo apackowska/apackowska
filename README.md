@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **AWS Cloud technologies**
 
-- 💬 Ask me about **Health Technology Asessment, Survical analysis, Bayesian methods**
+- 💬 Ask me about **Health Technology Assessment, Survical analysis, Bayesian methods**
 
 - 📫 How to reach me **a.packowska2@gmail.com**
 
